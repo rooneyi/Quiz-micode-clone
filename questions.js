@@ -25,6 +25,7 @@ export const Questions = [
     answers: ["delay()", "setTimeout()", "wait()"],
     correct: "setTimeout()",
   },
+
   {
     question:
       "Quel est le nom de la fonction qui permet de répéter une action à intervalles réguliers ?",
